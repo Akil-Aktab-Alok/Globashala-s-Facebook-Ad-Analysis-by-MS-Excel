@@ -6,13 +6,13 @@
 
 The **GlobalShala Facebook Ad Analysis Dashboard** provides a comprehensive overview of the performance of Facebook ads targeted at different demographic segments, focusing on the ad spend, engagement metrics, audience reach, and campaign performance. This analysis serves as a tool to evaluate the effectiveness of ad campaigns and guide future optimizations.
 
-### Dashboard Image
+## Dashboard Image
 
 Below is the image of the **GlobalShala Facebook Ad Analysis Dashboard**.
 
 ![Facebook Ad Analysis Dashboard](Dashboard%20Picture.jpg)  
 
-### Key Metrics & Insights
+## Key Metrics & Insights
 
 1. **Total Amount Spent (INR):**
    - **₹12,088.61** is the total amount spent on Facebook ads during the period analyzed. This expenditure is distributed across various campaigns and audience groups.
@@ -48,7 +48,7 @@ The **GlobalShala Facebook Ad Analysis Dashboard** is an effective tool for moni
 
 ---
 
-### **Recommendations**
+## **Recommendations**
 
 * **SHU\_Students (UK)** has a high CPC of 7.08\$ and a slightly better CTR of 3.0%. It still lacks strong cost-effectiveness and should be considered for optimization trials.
 
@@ -62,7 +62,7 @@ Overall, I recommend discontinuing Campaign 3 - **SHU\_Students(Australia)** fro
 
 ---
 
-### Skills Used
+## Skills Used
 - Data Analysis
 - Data Visualization
 - Marketing Metrics Analysis
@@ -70,7 +70,7 @@ Overall, I recommend discontinuing Campaign 3 - **SHU\_Students(Australia)** fro
 - Excel Dashboard Creation
 - Audience Segmentation and Targeting
 
-### Contact
+## Contact
 
 - **Name:** Akil Aktab Alok
 - **LinkedIn:** [Akil Aktab Alok](https://www.linkedin.com/in/akil-aktab-alok)
