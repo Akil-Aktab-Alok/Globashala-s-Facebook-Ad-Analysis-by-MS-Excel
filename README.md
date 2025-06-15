@@ -48,6 +48,20 @@ The **GlobalShala Facebook Ad Analysis Dashboard** is an effective tool for moni
 
 ---
 
+### **Recommendations**
+
+* **SHU\_Students (UK)** has a high CPC of 7.08\$ and a slightly better CTR of 3.0%. It still lacks strong cost-effectiveness and should be considered for optimization trials.
+
+* **SHU\_Students (Nigeria)** — CTR of 10.7%, CPC ₹0.36
+
+* **SHU3\_ (Students apart from India & US)** - Great balance of CTR and cost.
+
+* **SHU\_Students (USA)**: with a CTR of 6.1% and a moderate CPC of 5.04\$, this campaign shows strong engagement despite a slightly higher cost.
+
+Overall, I recommend discontinuing Campaign 3 - **SHU\_Students(Australia)** from the marketing.
+
+---
+
 ### Skills Used
 - Data Analysis
 - Data Visualization
